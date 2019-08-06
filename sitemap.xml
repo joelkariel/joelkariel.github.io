@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://joelkariel.github.io/post/first-post/</loc>
+    <lastmod>2019-08-06T20:22:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joelkariel.github.io/</loc>
+    <lastmod>2019-08-06T20:22:18+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://joelkariel.github.io/post/</loc>
+    <lastmod>2019-08-06T20:22:18+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://joelkariel.github.io/authors/admin/</loc>
   </url>
   
@@ -14,15 +30,6 @@
   <url>
     <loc>https://joelkariel.github.io/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://joelkariel.github.io/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://joelkariel.github.io/post/</loc>
   </url>
   
   <url>
