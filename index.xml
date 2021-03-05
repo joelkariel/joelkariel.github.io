@@ -3,19 +3,19 @@
   <channel>
     <title>Joel Kariel</title>
     <link>https://joelkariel.github.io/</link>
-      <atom:link href="https://joelkariel.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Joel Kariel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Aug 2019 20:22:18 +0100</lastBuildDate>
-    <image>
-      <url>https://joelkariel.github.io/img/icon-192.png</url>
-      <title>Joel Kariel</title>
-      <link>https://joelkariel.github.io/</link>
-    </image>
+    <description>Recent content on Joel Kariel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Aug 2019 20:22:18 +0100</lastBuildDate>
+    
+	<atom:link href="https://joelkariel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>First Post</title>
       <link>https://joelkariel.github.io/post/first-post/</link>
       <pubDate>Tue, 06 Aug 2019 20:22:18 +0100</pubDate>
+      
       <guid>https://joelkariel.github.io/post/first-post/</guid>
       <description></description>
     </item>
