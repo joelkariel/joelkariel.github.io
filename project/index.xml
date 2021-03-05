@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joel Kariel</title>
-    <link>https://joelkariel.github.io/</link>
-      <atom:link href="https://joelkariel.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Joel Kariel</description>
+    <title>Projects | Joel Kariel</title>
+    <link>https://joelkariel.github.io/project/</link>
+      <atom:link href="https://joelkariel.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Mar 2021 15:05:44 +0000</lastBuildDate>
     <image>
       <url>https://joelkariel.github.io/img/icon-192.png</url>
-      <title>Joel Kariel</title>
-      <link>https://joelkariel.github.io/</link>
+      <title>Projects</title>
+      <link>https://joelkariel.github.io/project/</link>
     </image>
     
     <item>
@@ -21,14 +21,6 @@
 
 &lt;p&gt;&lt;strong&gt;Published in &lt;a href=&#34;https://doi.org/10.1111/labr.12192&#34; target=&#34;_blank&#34;&gt;LABOUR 2021&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://joelkariel.github.io/post/first-post/</link>
-      <pubDate>Tue, 06 Aug 2019 20:22:18 +0100</pubDate>
-      <guid>https://joelkariel.github.io/post/first-post/</guid>
-      <description></description>
     </item>
     
   </channel>
